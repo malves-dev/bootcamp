@@ -1,4 +1,4 @@
-<h2>Address Book</h2><p>
+<h2>Lista de nomes</h2><p>
 <?php
   //This is a simple address book example for testing with RDS
 
