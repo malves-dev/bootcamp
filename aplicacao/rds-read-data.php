@@ -26,10 +26,10 @@ if ( $mode=="add")
  Print '
  method=post>
  <table >
- <tr><td>Last Name:</td><td><input type="text" name="lastname" style="color:black" /></td></tr>
- <tr><td>First Name:</td><td><input type="text" name="firstname"style="color:black" /></td></tr>
- <tr><td>Phone:</td><td><input type="text" name="phone" style="color:black" /></td></tr>
- <tr><td>Email:</td><td><input type="text" name="email" style="color:black" /></td></tr>
+ <tr><td>Sobrenome:</td><td><input type="text" name="lastname" style="color:black" /></td></tr>
+ <tr><td>Nome:</td><td><input type="text" name="firstname"style="color:black" /></td></tr>
+ <tr><td>Telefone:</td><td><input type="text" name="phone" style="color:black" /></td></tr>
+ <tr><td>E-mail:</td><td><input type="text" name="email" style="color:black" /></td></tr>
  <tr><td></td><td colspan="2" align="center"><input class="btn btn-primary btn-sm btn-block" type="submit" /></td></tr>
  <input type=hidden name=mode value=added>
  </table>
